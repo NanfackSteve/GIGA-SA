@@ -1,0 +1,34 @@
+# Workflow for deploying Dynamic WebSite to InfityFree Host
+name: Deploy GIGA S.A WebSite 
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Code Checkout 
+      uses: actions/checkout@v3
+    
+    - name: FTP Configurations
+      run: |
+        echo "machine ${{ secrets.HOST_FTP }}" >> ~/.netrc
+        echo "login ${{ secrets.LOGIN_FTP }}" >> ~/.netrc
+        echo "password ${{ secrets.PWD_FTP }}" >> ~/.netrc
+        chmod 600 ~/.netrc
+    
+    - name: Install Client FTP
+      run: |
+        sudo apt-get update
+        sudo apt-get install lftp -y
+        
+    - name: Deploy to Web Host
+      run: |
+        lftp -e "mirror -R -e -x .gitignore -x .git --delete-first ./ ${{ secrets.WEB_SITE_DIR }} ; quit" -d ${{ secrets.HOST_FTP }}  
