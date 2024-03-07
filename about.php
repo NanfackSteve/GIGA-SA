@@ -3,16 +3,16 @@
 <?php ob_start(); ?>
 
 <!-- Page Header Start -->
-<div class="container-fluid page-header py-2 mb-5 wow fadeIn" data-wow-delay="0.1s">
+<div class="container-fluid page-header py-2 mb-3 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
-        <h1 class="display-1 text-white animated slideInDown">Qui sommes-nous ?</h1>
+        <h1 class="display-1 text-white animated slideInDown">A propos de GIGA</h1>
     </div>
 </div>
 <!-- Page Header End -->
 
 
 <!-- About Start -->
-<div class="container-xxl py-5">
+<div class="container-xxl py-3">
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
@@ -22,8 +22,8 @@
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <h4 class="section-title">About Us</h4>
-                <h1 class="display-5 mb-4">A Creative Architecture Agency For Your Dream Home</h1>
+                <h4 class="section-title">GIGA SA</h4>
+                <h1 class="display-5 mb-4">Qui sommes nous ?</h1>
                 <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.
                     Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
                 </p>
@@ -52,8 +52,8 @@
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                <h4 class="section-title">Why Choose Us!</h4>
-                <h1 class="display-5 mb-4">Why You Should Trust Us? Learn More About Us!</h1>
+                <h4 class="section-title">Nos Atouts!</h4>
+                <h1 class="display-5 mb-4">Pourquoi nous choisir ?</h1>
                 <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
                     diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna
                     dolore erat amet</p>
