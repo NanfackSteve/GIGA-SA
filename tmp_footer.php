@@ -15,19 +15,19 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h3 class="text-light mb-4">Services</h3>
-                    <a class="btn btn-link" href="#">Architecture</a>
-                    <a class="btn btn-link" href="#">3D Animation</a>
-                    <a class="btn btn-link" href="#">House Planning</a>
-                    <a class="btn btn-link" href="#">Interior Design</a>
-                    <a class="btn btn-link" href="#">Construction</a>
+                    <h3 class="text-light mb-4">Nos Services</h3>
+                    <a class="btn btn-link" href="#">Agro-industrie</a>
+                    <a class="btn btn-link" href="#">BTP</a>
+                    <a class="btn btn-link" href="#">Le Minier et Pétrolier</a>
+                    <a class="btn btn-link" href="#">Electro-technique</a>
+                    <a class="btn btn-link" href="#">Commerce Général</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Liens Utiles</h3>
-                    <a class="btn btn-link" href="#">A propos</a>
-                    <a class="btn btn-link" href="#">Contact Us</a>
-                    <a class="btn btn-link" href="#">Our Services</a>
-                    <a class="btn btn-link" href="#">Support</a>
+                    <a class="btn btn-link" href="about.php">Qui sommes-nous ?</a>
+                    <a class="btn btn-link" href="#">Pourquoi nous choisir ?</a>
+                    <a class="btn btn-link" href="contact.php">Contactez-nous</a>
+                    <a class="btn btn-link" href="team.php">Nos Directions</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h3 class="text-light mb-4">Newsletter</h3>
@@ -46,8 +46,7 @@
                         &copy; <a href="index.php">GIGA S.A</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Développé par <a href="https://htmlcodex.com">HTML Codex</a>
+                        Développé par <a href="https://www.facebook.com/nanfack.steve.7">Nanfack Steve</a>
                     </div>
                 </div>
             </div>
