@@ -68,7 +68,7 @@
 
             <h4 class="text-center my-5 section-title">Nos Atouts</h4>
 
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.1s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                 <div class="fact-item text-center bg-light h-100 p-5 pt-0">
                     <div class="fact-icon">
                         <img src="img/icons/icon-2.png" alt="Icon">
@@ -79,7 +79,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.5s">
                 <div class="fact-item text-center bg-light h-100 p-5 pt-0">
                     <div class="fact-icon">
                         <img src="img/icons/icon-3.png" alt="Icon">
@@ -90,7 +90,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.5s">
+            <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                 <div class="fact-item text-center bg-light h-100 p-5 pt-0">
                     <div class="fact-icon">
                         <img src="img/icons/icon-4.png" alt="Icon">
@@ -148,7 +148,7 @@
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
             <h4 class="section-title">Nos Services</h4>
-            <h1 class="display-5 mb-4">Nous prestons dans divers domaines </h1>
+            <h1 class="display-5 mb-4">Nous prestons dans divers domaines</h1>
         </div>
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
