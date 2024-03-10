@@ -126,7 +126,8 @@
                     rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus
                     dolor eos.</p>
                 <div class="d-flex align-items-center mb-5">
-                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-primary" style="width: 120px; height: 120px;">
+                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center border border-5 border-primary"
+                        style="width: 120px; height: 120px;">
                         <h1 class="display-1 mb-n2" data-toggle="counter-up">25</h1>
                     </div>
                     <div class="ps-4">
@@ -237,21 +238,24 @@
             <h1 class="display-5 mb-4">Ils nous ont fait confiance</h1>
         </div>
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-1.jpg' alt=''>">
+            <div class="testimonial-item text-center"
+                data-dot="<img class='img-fluid' src='img/testimonial-1.jpg' alt=''>">
                 <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed
                     sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at
                     rebum justo sea clita.</p>
                 <h3>Client Name</h3>
                 <span class="text-primary">Profession</span>
             </div>
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-2.jpg' alt=''>">
+            <div class="testimonial-item text-center"
+                data-dot="<img class='img-fluid' src='img/testimonial-2.jpg' alt=''>">
                 <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed
                     sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at
                     rebum justo sea clita.</p>
                 <h3>Client Name</h3>
                 <span class="text-primary">Profession</span>
             </div>
-            <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/testimonial-3.jpg' alt=''>">
+            <div class="testimonial-item text-center"
+                data-dot="<img class='img-fluid' src='img/testimonial-3.jpg' alt=''>">
                 <p class="fs-5">Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed
                     sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at
                     rebum justo sea clita.</p>
@@ -264,7 +268,7 @@
 <!-- Testimonial End -->
 
 <script>
-    document.getElementById('home').classList.add('active');
+document.getElementById('home').classList.add('active');
 </script>
 <?php $content_page = ob_get_clean();
 
