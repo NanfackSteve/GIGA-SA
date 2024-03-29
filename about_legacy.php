@@ -20,7 +20,8 @@
                 <p class="text-primary ">Nom de l'entreprise : <span style="font-weight: bold;">Great Innovations
                         for
                         Great Achievement, en abrégé GIGA SA</span></p>
-                <p class="text-primary">Directeur Général : <span style="font-weight: bold;">GIGA SA</span></p>
+                <p class="text-primary">Directeur Général : <span style="font-weight: bold;">NKODO OTTOU Conrad</span>
+                </p>
             </div>
 
             <div class="text-start mx-auto mb-4 wow fadeIn" data-wow-delay="0.5s" style="max-width: 650px;">
@@ -29,7 +30,7 @@
                 <p class="text-primary">Numéro d’inscription : <span style="font-weight: bold;">RC/YAO/2022/B/803</span>
                 </p>
                 <p class="text-primary"><b>N</b>uméro d'<b>I</b>dentifiant fiscal <b>U</b>nique (NIU) : <span
-                        style="font-weight: bold;">M03221722237</span></p>
+                        style="font-weight: bold;">M032217222375M</span></p>
             </div>
 
             <div class="text-start mx-auto wow fadeIn" data-wow-delay="0.7s" style="max-width: 650px;">
